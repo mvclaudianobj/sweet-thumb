@@ -1,18 +1,18 @@
 {
-    "name": "israel-nogueira/sweet-thumb",
+    "name": "mvclaudianobj/sweet-thumb",
     "description": "Uma classe simples para criação de miniaturas e mais alguns truques",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "IsraelNogueira\\SweetThumb\\": "src/"
+            "MarcosClaudiano\\SweetThumb\\": "src/"
         }
     },
 
     "authors": [
         {
-            "name": "Israel Nogueira",
-            "email": "israel@feats.com.br"
+            "name": "Marcos Claudiano",
+            "email": "marcos@fenixsol.com.br"
         }
     ],
     "require": {}
